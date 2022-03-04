@@ -1,3 +1,4 @@
 /.idea/
 /react_project/frontend/node_modules/
 /target/
+/.mvn/
